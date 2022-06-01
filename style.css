@@ -18,7 +18,7 @@ input[type=text]:focus {
   background-color: plum;
 }
 
-input[type=submit] {
+input[type=button], input[type=submit], input[type=reset] {
   background-color: plum;
   border: none;
   color: indigo;
